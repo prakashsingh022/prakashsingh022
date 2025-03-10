@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakash kumar</h1>
 <h3 align="center">A passionate Software Engineer in google India</h3>
-<img align="right" alt="cooding" widh="30" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="cooding" widh="150" height="220" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashsingh022&label=Profile%20views&color=0e75b6&style=flat" alt="prakashsingh022" /> </p>
 
-- 🔭 I’m currently working on **(Myntra Clone) using HTML, CSS, and JavaScript**
+- 🔭 I’m currently working on **Myntra Clone**
 
 - 🌱 I’m currently learning **pursuing my Master of Computer Applications**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakashjistar@gmail.com**
 
-- ⚡ Fun fact **Ican inspire😉**
+- ⚡ Fun fact **I can inspire😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
